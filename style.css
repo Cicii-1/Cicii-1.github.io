@@ -1,0 +1,284 @@
+@font-face{
+	font-family: footer;
+	src: url(font/FZMSTJW.TTF);
+}
+
+body {
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.name {
+	font-family: footer;
+	font-size: 22px;
+	text-align: center;
+	color: #6E7376;
+	transition: .5s;
+	width: 95px;
+	margin: 0 auto;
+}
+
+.name:hover {
+	background-color: #feb7c9;
+	box-shadow: 0 0 8px 8px #feb7c9;
+	transition: .5s;
+	color: #f9edd1;
+}
+
+header {
+	margin: 0 auto;
+	position: relative;
+	top: 15px;
+	width: 90%;
+	z-index: 1;
+}
+
+nav {
+	width: 300px;
+	height: 30px;
+	text-align: center;
+}
+
+nav a {
+	text-decoration: none;
+	line-height: 30px;
+	color: #6E7376;
+	font-family: footer;
+}
+
+nav a:nth-child(1) {
+	position: absolute;
+	left: 10px;
+	font-size: 14px;
+}
+
+nav a:nth-child(2) {
+	position: absolute;
+	left: 90px;
+	font-size: 14px;
+}
+
+nav a:nth-child(3) {
+	position: absolute;
+	right: 10px;
+	font-size: 14px;
+}
+
+nav a {
+	transition: .5s;
+}
+
+nav a:hover {
+	background-color: #feb7c9;
+	box-shadow: 0 0 6px 6px #feb7c9;
+	transition: .5s;
+	color: #f9edd1;
+}
+
+.iconfont {
+	font-size: 15px;
+}
+
+
+.jiantou {
+	position: fixed;
+	bottom: 60px;
+	right: 60px;
+	background-color: #CCCBC6;
+	width: 30px;
+	height: 30px;
+	transition: 1s;
+}
+
+.jiantou:hover {
+	background-color: #feb7c9;
+	transition: .5s;
+}
+
+.jiantou svg {
+	width: 30px;
+	height: 30px;
+}
+
+main {
+	text-align: center;
+}
+
+hr {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.xian1 {
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+
+.xian {
+	margin-top: 60px;
+	margin-bottom: 80px;
+}
+
+.home {
+	width: 60%;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.home img {
+	margin: 0 auto;
+	filter: grayscale(100%);
+	transition: filter .5s ease;
+}
+
+.home img:hover {
+	filter: none;
+}
+
+.geren {
+	justify-content: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	width: 60%;
+	transition: .5s;
+}
+
+.geren div:hover {
+	color: #feb7c9;
+	transition: .5s;
+}
+
+.jianjie {
+	color: #6E7376;
+	margin: 0 auto;
+	width: 60%;
+}
+
+.kaitou {
+	display: flex;
+}
+
+.tou {
+	writing-mode: vertical-lr;
+	font-family: footer;
+	font-size: 30px;
+}
+
+.xiegang {
+	font-size: 60px;
+	font-family: footer;
+	text-align: left;
+	margin-top: 100px;
+}
+
+.xx {
+	font-family: footer;
+	margin-top: 20px;
+}
+
+.geren img {
+	text-align: center;
+}
+
+.gerenyi img {
+	width: 120px;
+}
+
+.gerener img {
+	width: 384px;
+}
+
+.photography {
+	text-align: center;
+	margin-top: 50px;
+	width: 60%;
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.photography img {
+	filter: grayscale(100%);
+	transition: filter .5s ease;
+}
+
+.photography img:hover {
+	filter: none;
+}
+
+.heng {
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.heng img {
+	filter: grayscale(100%);
+	transition: filter .5s ease;
+}
+
+.heng img:hover {
+	filter: none;
+}
+
+.works {
+	text-align: center;
+	margin-top: 50px;
+	width: 60%;
+}
+
+.works img {
+	filter: grayscale(100%);
+	transition: filter .5s ease;
+}
+
+.works img:hover {
+	filter: none;
+}
+
+.inspiration {
+	text-align: center;
+	margin-top: 50px;
+	width: 60%;
+}
+
+.inspiration img {
+	filter: grayscale(100%);
+	transition: filter .5s ease;
+}
+
+.inspiration img:hover {
+	filter: none;
+}
+
+audio {
+	width: 200px;
+	height: 20px;
+	vertical-align: middle;
+	margin-top: 50px;
+}
+
+footer {
+	font-family: footer;
+	text-align: center;
+	color: darkgrey;
+	margin-top: 40px;
+}
+
+h1 {
+	font-size: 25px;
+	transition: .5s;
+}
+
+h1:hover {
+	transition: .5s;
+	color: #feb7c9;
+}
+
+
+
+
+
+
+

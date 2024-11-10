@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "595407",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4065956",
+      "name": "作品",
+      "font_class": "zuopin",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "9550454",
+      "name": "联系我们",
+      "font_class": "lianxiwomen",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
